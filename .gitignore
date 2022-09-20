@@ -1,0 +1,4 @@
+# not publishing the csv files due to their big size 
+data/*.csv
+!mytable_type_of_admission.csv
+!mytable_demographics.csv
